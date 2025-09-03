@@ -1,6 +1,21 @@
 ### Olá, sou a Adriely!
-##
+## Sobre mim
 
+Tecnóloga em Análise e Desenvolvimento de Sistemas, com experiência em software embarcado, redes móveis (LTE/5G) e sistemas Android (AP/CP). Atuo em projetos de conectividade, automação, testes de campo, virtualização e análise de RF, além de iniciativas com Rádio Definido por Software (RDS).
+Tenho conhecimento em linguagens como C/C++, Java e Python, e utilizo ferramentas específicas de chipsets Qualcomm e MediaTek, além de srsRAN, Open5GS e BigQuery para simulação de redes móveis e análise de dados em larga escala. Gosto de aprender, colaborar e resolver problemas com foco, curiosidade e atenção aos detalhes técnicos.
+
+## Tecnologias e Ferramentas
+
+- **Linguagens:** C, C++, Java, Python  
+- **Redes móveis:** LTE, 5G, IMS, Wi-Fi  
+- **Ferramentas:** srsRAN, Open5GS, BigQuery, QXDM, QCAT  
+- **Infraestrutura:** IaC, Jira, Confluence
+
+## Contato
+
+Você pode me encontrar por aqui ou no [LinkedIn](https://www.linkedin.com/in/adrielybrandelli/) para trocar ideias sobre conectividade, software embarcado e IA aplicada.
+
+---
 <div align="center">
   <a href="https://github.com/AdrielyBrandelli">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=AdrielyBrandelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
